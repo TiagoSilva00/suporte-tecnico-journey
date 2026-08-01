@@ -8,6 +8,8 @@ diagnóstico — habilidades essenciais para atuação em Suporte Técnico.
 ## Atividades realizadas
 - [x] Sala "Windows Fundamentals 1" (TryHackMe) — **concluída** ✅
   - 10 tarefas concluídas | 104 pontos ganhos
+<img width="1356" height="647" alt="windows-fundamentals-1-conclusao" src="https://github.com/user-attachments/assets/4a182801-9449-4df7-a404-3cb1f8b8159f" />
+     
 
 ## O que aprendi
 
