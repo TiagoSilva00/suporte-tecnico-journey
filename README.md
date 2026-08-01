@@ -12,7 +12,7 @@ práticas de ITIL — com registro público do progresso.
 Cada semana tem sua própria pasta com notas, exercícios e reflexões:
 
 - `semana-00-setup/` — Preparação do ambiente e ferramentas
-- `semana-01-fundamentos-ti/` — Hardware, SO e conceitos básicos
+- - `semana-01-fundamentos-windows/` — Fundamentos do Windows (interface, sistema de arquivos, contas de usuário)
 - *(novas semanas serão adicionadas conforme o progresso)*
 
 ## 🛠️ Ferramentas utilizadas
@@ -23,7 +23,8 @@ Cada semana tem sua própria pasta com notas, exercícios e reflexões:
 ## 📈 Progresso
 | Semana | Tema | Status |
 |--------|------|--------|
-| 00 | Setup do ambiente | 🔄 Em andamento |
+| 00 | Setup do ambiente | ✅ Concluído |
+| 01 | Fundamentos de Windows | ✅ Concluído |
 
 ## 🔗 Jornadas relacionadas
 - [cybersecurity-journey](link-do-outro-repo) — trilha paralela em Cybersecurity
