@@ -27,7 +27,7 @@ Cada semana tem sua própria pasta com notas, exercícios e reflexões:
 | 01 | Fundamentos de Windows | ✅ Concluído |
 
 ## 🔗 Jornadas relacionadas
-- - [cybersecurity-journey](https://github.com/TiagoSilva00/cybersecurity-journey) — trilha paralela em Cybersecurity
+- [cybersecurity-journey](https://github.com/TiagoSilva00/cybersecurity-journey) — trilha paralela em Cybersecurity
 
 ---
 📅 Início: Julho 2026
