@@ -28,6 +28,6 @@ Cada semana tem sua própria pasta com notas, exercícios e reflexões:
 
 ## 🔗 Jornadas relacionadas
 - [cybersecurity-journey](https://github.com/TiagoSilva00/cybersecurity-journey) — trilha paralela em Cybersecurity
-
+- [📜 Certificados](https://github.com/TiagoSilva00/cybersecurity-journey/tree/main/certificados) — certificações obtidas ao longo da jornada
 ---
 📅 Início: Julho 2026
