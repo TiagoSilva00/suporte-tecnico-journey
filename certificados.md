@@ -13,6 +13,7 @@ Os arquivos originais dos certificados ficam centralizados no repositório [`cyb
 | Biblioteca de Boas Práticas de Gestão de TI (GSTI/ITSM) v3 | Udemy | 18/05/2023 | 23h | [Ver certificado](https://github.com/TiagoSilva00/cybersecurity-journey/blob/main/certificados/udemy-itsm-gsti-boas-praticas.jpg) |
 | Windows Server 2022 + AZ-104 + AZ-900 + cursos brindes | Udemy | 03/06/2022 | 22h | [Ver certificado](https://github.com/TiagoSilva00/cybersecurity-journey/blob/main/certificados/udemy-windows-server-az104-az900.jpg) |
 | Primeiros Passos com Zabbix | GINEAD - Instituto Nacional de Ensino a Distância | 20/06/2022 | 60h | [Ver certificado](https://github.com/TiagoSilva00/cybersecurity-journey/blob/main/certificados/ginead-primeiros-passos-zabbix.pdf) |
+| Boas-vindas à Aceleração Randstad - Service Desk | Randstad Digital / DIO | 09/08/2026 | 1h | [Ver certificado](https://hermes.dio.me/certificates/I0HLQTBJ.pdf) |
 
 ---
 
