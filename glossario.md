@@ -1,4 +1,4 @@
-# Glossário — Suporte Técnico / Help Desk / Service Desk
+# Glossário — Suporte Técnico / Help Desk / Service Des
 
 Termos e conceitos aprendidos ao longo da jornada, em Português e Inglês, 
 atualizados a cada nova sala/tópico concluído.
