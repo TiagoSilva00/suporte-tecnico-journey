@@ -15,6 +15,7 @@ Os arquivos originais dos certificados ficam centralizados no repositório [`cyb
 | Primeiros Passos com Zabbix | GINEAD - Instituto Nacional de Ensino a Distância | 20/06/2022 | 60h | [Ver certificado](https://github.com/TiagoSilva00/cybersecurity-journey/blob/main/certificados/ginead-primeiros-passos-zabbix.pdf) |
 | Boas-vindas à Aceleração Randstad - Service Desk | Randstad Digital / DIO | 09/08/2026 | 1h | [Ver certificado](https://hermes.dio.me/certificates/I0HLQTBJ.pdf) |
 | Live de Abertura Aceleração Randstad Service Desk | DIO.pro | 17/08/2026 | 1h | [Ver certificado](https://hermes.dio.me/certificates/C4ZF7USL.pdf) |
+| Service Desk: do Suporte Reativo ao Atendimento Estratégico | DIO.pro | 19/08/2026 | 1h | [Ver certificado](https://hermes.dio.me/certificates/PIBRNJQT.pdf) |
 
 ---
 
