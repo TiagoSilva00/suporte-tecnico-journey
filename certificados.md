@@ -16,7 +16,7 @@ Os arquivos originais dos certificados ficam centralizados no repositório [`cyb
 | Boas-vindas à Aceleração Randstad - Service Desk | Randstad Digital / DIO | 09/08/2026 | 1h | [Ver certificado](https://hermes.dio.me/certificates/I0HLQTBJ.pdf) |
 | Live de Abertura Aceleração Randstad Service Desk | DIO.pro | 17/08/2026 | 1h | [Ver certificado](https://hermes.dio.me/certificates/C4ZF7USL.pdf) |
 | Service Desk: do Suporte Reativo ao Atendimento Estratégico | DIO.pro | 19/08/2026 | 1h | [Ver certificado](https://hermes.dio.me/certificates/PIBRNJQT.pdf) |
-
+| Comandos Essenciais de CMD na Prática | DIO.pro | 19/08/2026 | 1h | [Ver certificado](https://hermes.dio.me/certificates/UG4DHY2V.pdf) |
 ---
 
 📌 Para ver a lista completa de certificados (incluindo os focados em Cybersecurity), acesse o [repositório principal de certificados](https://github.com/TiagoSilva00/cybersecurity-journey/tree/main/certificados).
